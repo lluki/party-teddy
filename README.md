@@ -5,6 +5,8 @@ It uses an ESP8266, drives the speaker via a transistor and 8 WS2812 LEDs
 The software is written in Arduino and uses the [ESP8266 Audio](https://github.com/earlephilhower/ESP8266Audio)
 library.
 
+### Hardware
+A custom board using an ESP8266 12E, the schematics can be found [here](https://github.com/lluki/party-teddy/blob/main/schema/schema.pdf)
 
 ### HTTP interface
 At boot, the teddy will fetch /playlist which should return a single integer
