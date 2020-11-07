@@ -1,4 +1,5 @@
 This project turns a boring lullaby playing toy into a veritable party machine.
+Videos and pictures can be found on [hackaday.io](https://hackaday.io/project/175761-party-teddy/details/185859)
 
 It uses an ESP8266, drives the speaker via a transistor and 8 WS2812 LEDs
 
