@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name esp8266)(type Legacy)(uri /home/lukas/kicad/libraries/kicad-ESP8266/ESP8266.lib)(options "")(descr ""))
+  (lib (name teddy2)(type Legacy)(uri ${KIPRJMOD}/teddy2.lib)(options "")(descr ""))
+)

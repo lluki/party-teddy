@@ -1,0 +1,26 @@
+Source,/home/lukas/Arduino/sketch_oct26a/schema/teddy/teddy.sch
+Kicad Rev,Eeschema 5.1.5+dfsg1-2build2
+Generated Date,So 01 Nov 2020 14:15:46
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U1,ESP-12E,esp8266,ESP-12E
+Q1,BC547,Transistor_BJT,BC547
+LS1,Speaker,Device,Speaker
+R5,1k,Device,R
+J1,Conn_01x04_Male,Connector,Conn_01x04_Male
+Flash1,SW_Push,Switch,SW_Push
+Reset1,SW_Push,Switch,SW_Push
+BellyBig1,SW_Push,Switch,SW_Push
+R2,1k,Device,R
+R1,1k,Device,R
+R3,1k,Device,R
+BellySmall1,SW_Push,Switch,SW_Push
+R4,1k,Device,R
+J2,Conn_01x02_Male,Connector,Conn_01x02_Male
+J3,Conn_01x03_Male,Connector,Conn_01x03_Male
+J4,Conn_01x02_Male,Connector,Conn_01x02_Male
